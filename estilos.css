@@ -1,0 +1,5 @@
+.fondomovil {
+    background-image: url("img/batman.jpg");
+    background-attachment: fixed;
+    height: 450px;
+}
